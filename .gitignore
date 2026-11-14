@@ -1,0 +1,12 @@
+target/
+.tools/
+.m2/
+data/
+*.log
+.idea/
+.vscode/
+*.iml
+*.tmp
+dependency-reduced-pom.xml
+.DS_Store
+
